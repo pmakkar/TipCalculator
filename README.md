@@ -9,3 +9,5 @@ Completed:
 
 Notes:
 I did not spend any time making the app look right in other screen sizes and Landscape orientation.
+
+![](gif/Recording.gif)
